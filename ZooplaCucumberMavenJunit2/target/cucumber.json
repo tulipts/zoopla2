@@ -1,0 +1,467 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 20,
+        "name": "Verify that the user can sign-in successfully to Zoopla",
+        "description": "",
+        "id": "sign-in-to-zoopla;verify-that-the-user-can-sign-in-successfully-to-zoopla;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1401618308,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "the Runmode is \"Y\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Y",
+                  "offset": 16
+                }
+              ],
+              "location": "CommonSteps.Runmode_is(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 19103950458,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I navigate to \"testUrl\" on \"browserType\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "testUrl",
+                  "offset": 15
+                },
+                {
+                  "val": "browserType",
+                  "offset": 28
+                }
+              ],
+              "location": "CommonSteps.I_navigate_to(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2772241125,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I click on \"signinLink\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "signinLink",
+                  "offset": 12
+                }
+              ],
+              "location": "CommonSteps.I_click_on(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 309192605,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I enter \"emailText\" as \"planmex@hotmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "emailText",
+                  "offset": 9
+                },
+                {
+                  "val": "planmex@hotmail.com",
+                  "offset": 24
+                }
+              ],
+              "location": "SignInTest.I_enter_as(String,String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 248245721,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I enter \"passwordText\" as \"selenium321\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "passwordText",
+                  "offset": 9
+                },
+                {
+                  "val": "selenium321",
+                  "offset": 27
+                }
+              ],
+              "location": "SignInTest.I_enter_as(String,String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3679955848,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I click on \"signinButton\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "signinButton",
+                  "offset": 12
+                }
+              ],
+              "location": "CommonSteps.I_click_on(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1188061618,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Signin should be \"successful\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "successful",
+                  "offset": 18
+                }
+              ],
+              "location": "SignInTest.Signin_Validation(String)"
+            },
+            "matchedColumns": [
+              3
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 8,
+            "name": "@signin"
+          },
+          {
+            "line": 1,
+            "name": "@SignInFeature"
+          }
+        ]
+      }
+    ],
+    "name": "Sign In to Zoopla",
+    "description": "\r\nAs a user\r\nI want to SignIn to Zoopla successfully\r\nSo that I can start searching for properties",
+    "id": "sign-in-to-zoopla",
+    "keyword": "Feature",
+    "uri": "features/001 signIn.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@SignInFeature"
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 19,
+        "name": "Verify that the location is correct.....",
+        "description": "",
+        "id": "for-sale-properties-results-header-title;verify-that-the-location-is-correct.....;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3707068,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "the Runmode is \"Y\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Y",
+                  "offset": 16
+                }
+              ],
+              "location": "CommonSteps.Runmode_is(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 13820096171,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I navigate to \"testUrl\" on \"browserType\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "testUrl",
+                  "offset": 15
+                },
+                {
+                  "val": "browserType",
+                  "offset": 28
+                }
+              ],
+              "location": "CommonSteps.I_navigate_to(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1051642824,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I enter \"London\" into \"searchLocationText\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "London",
+                  "offset": 9
+                },
+                {
+                  "val": "searchLocationText",
+                  "offset": 23
+                }
+              ],
+              "location": "PropertiesResultsHeaderTitle.I_enter_location(String,String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6539657369,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I click on \"searchButton\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "searchButton",
+                  "offset": 12
+                }
+              ],
+              "location": "CommonSteps.I_click_on(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1574646380,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "the For Sale properties results page \"headerTitleLabel\" should show \"London\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "headerTitleLabel",
+                  "offset": 38
+                },
+                {
+                  "val": "London",
+                  "offset": 69
+                }
+              ],
+              "location": "PropertiesResultsHeaderTitle.Sale_properties_results(String,String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 9,
+            "name": "@SalePropertiesResultsScenario"
+          },
+          {
+            "line": 1,
+            "name": "@ForSalePropertiesFeature"
+          }
+        ]
+      },
+      {
+        "line": 20,
+        "name": "Verify that the location is correct.....",
+        "description": "",
+        "id": "for-sale-properties-results-header-title;verify-that-the-location-is-correct.....;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1405196,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "the Runmode is \"Y\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Y",
+                  "offset": 16
+                }
+              ],
+              "location": "CommonSteps.Runmode_is(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 13740592953,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I navigate to \"testUrl\" on \"browserType\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "testUrl",
+                  "offset": 15
+                },
+                {
+                  "val": "browserType",
+                  "offset": 28
+                }
+              ],
+              "location": "CommonSteps.I_navigate_to(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 997716789,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I enter \"London\" into \"searchLocationText\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "London",
+                  "offset": 9
+                },
+                {
+                  "val": "searchLocationText",
+                  "offset": 23
+                }
+              ],
+              "location": "PropertiesResultsHeaderTitle.I_enter_location(String,String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6245238452,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I click on \"searchButton\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "searchButton",
+                  "offset": 12
+                }
+              ],
+              "location": "CommonSteps.I_click_on(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1615540760,
+              "error_message": "java.lang.AssertionError\r\n\tat org.junit.Assert.fail(Assert.java:86)\r\n\tat stepDefinition.PropertiesResultsHeaderTitle.Sale_properties_results(PropertiesResultsHeaderTitle.java:37)\r\n\tat ✽.Then the For Sale properties results page \"headerTitleLabel\" should show \"Test\"(features/002. propertiesResultsHeaderTitle.feature:15)\r\n",
+              "status": "failed"
+            },
+            "line": 15,
+            "name": "the For Sale properties results page \"headerTitleLabel\" should show \"Test\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "headerTitleLabel",
+                  "offset": 38
+                },
+                {
+                  "val": "Test",
+                  "offset": 69
+                }
+              ],
+              "location": "PropertiesResultsHeaderTitle.Sale_properties_results(String,String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 9,
+            "name": "@SalePropertiesResultsScenario"
+          },
+          {
+            "line": 1,
+            "name": "@ForSalePropertiesFeature"
+          }
+        ]
+      }
+    ],
+    "name": "For Sale properties results header title",
+    "description": "\r\nAs a user\r\nI want to see the location string in the header title\r\nSo that I can verify I am searching for properties in the correct location",
+    "id": "for-sale-properties-results-header-title",
+    "keyword": "Feature",
+    "uri": "features/002. propertiesResultsHeaderTitle.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@ForSalePropertiesFeature"
+      }
+    ]
+  }
+]

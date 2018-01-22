@@ -1,0 +1,668 @@
+2016-12-09 15:03:30,709 INFO  [Log] Initilaising..  
+2016-12-09 15:03:30,709 INFO  [Log] Checking test run mode 
+2016-12-09 15:03:30,709 INFO  [Log] Starting test 
+2016-12-09 15:03:30,709 INFO  [Log] Opening browser 
+2016-12-09 15:03:34,773 INFO  [Log] Navigating to Url 
+2016-12-09 15:03:37,405 INFO  [Log] Initilaising..  
+2016-12-09 15:03:37,977 INFO  [Log] Typing in text 
+2016-12-09 15:03:38,616 INFO  [Log] Clicking element 
+2016-12-09 15:03:43,815 INFO  [Log] Reading label 
+2016-12-09 15:03:44,318 INFO  [Log] Closing browser 
+2016-12-09 15:03:44,985 INFO  [Log] **************************************************************************************** 
+2016-12-09 15:03:44,985 INFO  [Log] **                    END OF TEST EXECUTION PropertiesResultsHeader                      ** 
+2016-12-09 15:03:44,985 INFO  [Log] **************************************************************************************** 
+2016-12-09 15:03:44,998 INFO  [Log] Initilaising..  
+2016-12-09 15:03:44,999 INFO  [Log] Checking test run mode 
+2016-12-09 15:03:44,999 INFO  [Log] Starting test 
+2016-12-09 15:03:44,999 INFO  [Log] Opening browser 
+2016-12-09 15:03:48,259 INFO  [Log] Navigating to Url 
+2016-12-09 15:03:50,906 INFO  [Log] Initilaising..  
+2016-12-09 15:03:51,871 INFO  [Log] Typing in text 
+2016-12-09 15:03:52,519 INFO  [Log] Clicking element 
+2016-12-09 15:03:57,873 INFO  [Log] Reading label 
+2016-12-09 15:03:58,281 INFO  [Log] Closing browser 
+2016-12-09 15:03:58,835 INFO  [Log] **************************************************************************************** 
+2016-12-09 15:03:58,835 INFO  [Log] **                    END OF TEST EXECUTION PropertiesResultsHeader                      ** 
+2016-12-09 15:03:58,835 INFO  [Log] **************************************************************************************** 
+2016-12-10 08:27:35,202 INFO  [Log] Initilaising..  
+2016-12-10 08:27:35,203 INFO  [Log] Checking test run mode 
+2016-12-10 08:27:35,203 INFO  [Log] Starting test 
+2016-12-10 08:27:35,207 INFO  [Log] Opening browser 
+2016-12-10 08:27:42,810 INFO  [Log] Navigating to Url 
+2016-12-10 08:27:46,543 INFO  [Log] Clicking element 
+2016-12-10 08:27:49,125 INFO  [Log] Initilaising..  
+2016-12-10 08:27:49,834 INFO  [Log] Typing in text 
+2016-12-10 08:27:50,058 INFO  [Log] Typing in text 
+2016-12-10 08:27:50,191 INFO  [Log] Clicking element 
+2016-12-10 08:27:50,342 INFO  [Log] Verifying element 
+2016-12-10 08:27:52,022 INFO  [Log] Signin Assertion Passed  
+2016-12-10 08:27:52,022 INFO  [Log] Closing browser 
+2016-12-10 08:27:52,890 INFO  [Log] **************************************************************************************** 
+2016-12-10 08:27:52,890 INFO  [Log] **                    END OF TEST EXECUTION SigninTest                      ** 
+2016-12-10 08:27:52,890 INFO  [Log] **************************************************************************************** 
+2016-12-10 08:27:52,896 INFO  [Log] Initilaising..  
+2016-12-10 08:27:52,896 INFO  [Log] Checking test run mode 
+2016-12-10 08:27:52,896 INFO  [Log] Starting test 
+2016-12-10 08:27:52,897 INFO  [Log] Opening browser 
+2016-12-10 08:27:56,685 INFO  [Log] Navigating to Url 
+2016-12-10 08:28:01,222 INFO  [Log] Initilaising..  
+2016-12-10 08:28:01,349 INFO  [Log] Typing in text 
+2016-12-10 08:28:01,983 INFO  [Log] Clicking element 
+2016-12-10 08:28:07,802 INFO  [Log] Reading label 
+2016-12-10 08:28:08,274 INFO  [Log] Closing browser 
+2016-12-10 08:28:08,873 INFO  [Log] **************************************************************************************** 
+2016-12-10 08:28:08,873 INFO  [Log] **                    END OF TEST EXECUTION PropertiesResultsHeader                      ** 
+2016-12-10 08:28:08,873 INFO  [Log] **************************************************************************************** 
+2016-12-10 08:28:08,876 INFO  [Log] Initilaising..  
+2016-12-10 08:28:08,876 INFO  [Log] Checking test run mode 
+2016-12-10 08:28:08,877 INFO  [Log] Skipping test as Runmode is No 
+2016-12-10 08:28:08,926 INFO  [Log] Initilaising..  
+2016-12-10 08:28:08,926 INFO  [Log] Checking test run mode 
+2016-12-10 08:28:08,926 INFO  [Log] Starting test 
+2016-12-10 08:28:08,927 INFO  [Log] Opening browser 
+2016-12-10 08:28:12,666 INFO  [Log] Navigating to Url 
+2016-12-10 08:28:17,229 INFO  [Log] Clicking element 
+2016-12-10 08:28:19,801 INFO  [Log] Initilaising..  
+2016-12-10 08:28:20,581 INFO  [Log] Typing in text 
+2016-12-10 08:28:20,784 INFO  [Log] Typing in text 
+2016-12-10 08:28:20,938 INFO  [Log] Clicking element 
+2016-12-10 08:28:21,087 INFO  [Log] Initilaising..  
+2016-12-10 08:28:23,290 INFO  [Log] Closing browser 
+2016-12-10 09:57:44,370 INFO  [Log] Initilaising..  
+2016-12-10 09:57:44,371 INFO  [Log] Checking test run mode 
+2016-12-10 09:57:44,371 INFO  [Log] Starting test 
+2016-12-10 09:57:44,374 INFO  [Log] Opening browser 
+2016-12-10 09:57:50,237 INFO  [Log] Navigating to Url 
+2016-12-10 10:34:10,197 INFO  [Log] Initilaising..  
+2016-12-10 10:34:10,199 INFO  [Log] Checking test run mode 
+2016-12-10 10:34:10,199 INFO  [Log] Starting test 
+2016-12-10 10:34:10,204 INFO  [Log] Opening browser 
+2016-12-10 10:34:15,921 INFO  [Log] Navigating to Url 
+2016-12-10 10:36:00,583 INFO  [Log] Initilaising..  
+2016-12-10 10:36:00,583 INFO  [Log] Checking test run mode 
+2016-12-10 10:36:00,583 INFO  [Log] Starting test 
+2016-12-10 10:36:00,584 INFO  [Log] Opening browser 
+2016-12-10 10:36:06,201 INFO  [Log] Navigating to Url 
+2016-12-10 10:36:09,761 INFO  [Log] Clicking element 
+2016-12-10 10:36:10,036 INFO  [Log] Initilaising..  
+2016-12-10 10:36:11,756 INFO  [Log] Typing in text 
+2016-12-10 10:36:12,026 INFO  [Log] Typing in text 
+2016-12-10 10:36:12,183 INFO  [Log] Clicking element 
+2016-12-10 10:36:12,473 INFO  [Log] Verifying element 
+2016-12-10 10:50:14,696 INFO  [Log] Initilaising..  
+2016-12-10 10:50:14,697 INFO  [Log] Checking test run mode 
+2016-12-10 10:50:14,697 INFO  [Log] Starting test 
+2016-12-10 10:50:14,701 INFO  [Log] Opening browser 
+2016-12-10 10:50:20,458 INFO  [Log] Navigating to Url 
+2016-12-10 10:50:25,435 INFO  [Log] Clicking element 
+2016-12-10 10:50:25,764 INFO  [Log] Initilaising..  
+2016-12-10 10:50:27,923 INFO  [Log] Typing in text 
+2016-12-10 10:50:28,267 INFO  [Log] Typing in text 
+2016-12-10 10:50:28,419 INFO  [Log] Clicking element 
+2016-12-10 10:50:28,720 INFO  [Log] Verifying element 
+2016-12-10 10:50:42,033 INFO  [Log] Sign in assertion passed 
+2016-12-10 10:50:42,033 INFO  [Log] Closing browser 
+2016-12-10 11:03:59,828 INFO  [Log] Initilaising..  
+2016-12-10 11:03:59,829 INFO  [Log] Checking test run mode 
+2016-12-10 11:03:59,829 INFO  [Log] Starting test 
+2016-12-10 11:03:59,831 INFO  [Log] Opening browser 
+2016-12-10 11:04:06,547 INFO  [Log] Navigating to Url 
+2016-12-10 11:25:24,887 INFO  [Log] Initilaising..  
+2016-12-10 11:25:24,889 INFO  [Log] Checking test run mode 
+2016-12-10 11:25:24,889 INFO  [Log] Starting test 
+2016-12-10 11:25:24,893 INFO  [Log] Opening browser 
+2016-12-10 11:25:31,191 INFO  [Log] Navigating to Url 
+2016-12-10 11:25:36,553 INFO  [Log] Initilaising..  
+2016-12-10 11:25:36,738 INFO  [Log] Typing in text 
+2016-12-10 11:25:37,641 INFO  [Log] Clicking element 
+2016-12-10 11:25:44,571 INFO  [Log] Reading label 
+2016-12-10 11:25:44,573 ERROR [Log] assertion failed 
+2016-12-10 11:25:44,573 INFO  [Log] Closing browser 
+2016-12-10 11:25:46,081 INFO  [Log] Initilaising..  
+2016-12-10 11:25:46,082 INFO  [Log] Checking test run mode 
+2016-12-10 11:25:46,082 INFO  [Log] Starting test 
+2016-12-10 11:25:46,083 INFO  [Log] Opening browser 
+2016-12-10 11:25:50,825 INFO  [Log] Navigating to Url 
+2016-12-10 11:25:55,298 INFO  [Log] Clicking element 
+2016-12-10 11:25:55,647 INFO  [Log] Initilaising..  
+2016-12-10 11:25:57,426 INFO  [Log] Typing in text 
+2016-12-10 11:25:57,709 INFO  [Log] Typing in text 
+2016-12-10 11:25:57,944 INFO  [Log] Clicking element 
+2016-12-10 11:25:58,412 INFO  [Log] Verifying element 
+2016-12-10 11:26:01,511 INFO  [Log] Sign in assertion passed 
+2016-12-10 11:26:01,512 INFO  [Log] Closing browser 
+2016-12-10 11:28:48,300 INFO  [Log] Initilaising..  
+2016-12-10 11:28:48,301 INFO  [Log] Checking test run mode 
+2016-12-10 11:28:48,302 INFO  [Log] Starting test 
+2016-12-10 11:28:48,305 INFO  [Log] Opening browser 
+2016-12-10 11:28:54,002 INFO  [Log] Navigating to Url 
+2016-12-10 11:28:59,071 INFO  [Log] Clicking element 
+2016-12-10 11:28:59,396 INFO  [Log] Initilaising..  
+2016-12-10 11:29:01,303 INFO  [Log] Typing in text 
+2016-12-10 11:29:01,590 INFO  [Log] Typing in text 
+2016-12-10 11:29:01,757 INFO  [Log] Clicking element 
+2016-12-10 11:29:02,065 INFO  [Log] Verifying element 
+2016-12-10 11:29:04,080 INFO  [Log] Sign in assertion passed 
+2016-12-10 11:29:04,080 INFO  [Log] Closing browser 
+2016-12-10 11:29:05,152 INFO  [Log] Initilaising..  
+2016-12-10 11:29:05,152 INFO  [Log] Checking test run mode 
+2016-12-10 11:29:05,152 INFO  [Log] Starting test 
+2016-12-10 11:29:05,154 INFO  [Log] Opening browser 
+2016-12-10 11:29:09,625 INFO  [Log] Navigating to Url 
+2016-12-10 11:29:13,863 INFO  [Log] Initilaising..  
+2016-12-10 11:29:14,080 INFO  [Log] Typing in text 
+2016-12-10 11:29:15,064 INFO  [Log] Clicking element 
+2016-12-10 11:29:21,266 INFO  [Log] Reading label 
+2016-12-10 11:29:21,267 ERROR [Log] assertion failed 
+2016-12-10 11:29:21,267 INFO  [Log] Closing browser 
+2016-12-10 11:36:27,135 INFO  [Log] Initilaising..  
+2016-12-10 11:36:27,137 INFO  [Log] Checking test run mode 
+2016-12-10 11:36:27,137 INFO  [Log] Starting test 
+2016-12-10 11:36:27,139 INFO  [Log] Opening browser 
+2016-12-10 11:36:32,852 INFO  [Log] Navigating to Url 
+2016-12-10 11:36:37,887 INFO  [Log] Initilaising..  
+2016-12-10 11:36:38,047 INFO  [Log] Typing in text 
+2016-12-10 11:36:38,991 INFO  [Log] Clicking element 
+2016-12-10 11:36:46,270 INFO  [Log] Reading label 
+2016-12-10 11:36:46,273 ERROR [Log] assertion failed 
+2016-12-10 11:36:46,273 INFO  [Log] Closing browser 
+2016-12-10 11:37:37,368 INFO  [Log] Initilaising..  
+2016-12-10 11:37:37,369 INFO  [Log] Checking test run mode 
+2016-12-10 11:37:37,369 INFO  [Log] Starting test 
+2016-12-10 11:37:37,370 INFO  [Log] Opening browser 
+2016-12-10 11:37:42,714 INFO  [Log] Navigating to Url 
+2016-12-10 11:37:47,606 INFO  [Log] Initilaising..  
+2016-12-10 11:37:47,846 INFO  [Log] Typing in text 
+2016-12-10 11:37:48,677 INFO  [Log] Clicking element 
+2016-12-10 11:37:56,087 INFO  [Log] Reading label 
+2016-12-10 11:37:56,089 ERROR [Log] assertion failed 
+2016-12-10 11:37:56,090 INFO  [Log] Closing browser 
+2016-12-10 11:39:44,548 INFO  [Log] Initilaising..  
+2016-12-10 11:39:44,549 INFO  [Log] Checking test run mode 
+2016-12-10 11:39:44,549 INFO  [Log] Starting test 
+2016-12-10 11:39:44,552 INFO  [Log] Opening browser 
+2016-12-10 11:39:50,444 INFO  [Log] Navigating to Url 
+2016-12-10 11:39:55,627 INFO  [Log] Initilaising..  
+2016-12-10 11:39:55,804 INFO  [Log] Typing in text 
+2016-12-10 11:39:56,730 INFO  [Log] Clicking element 
+2016-12-10 11:40:05,551 INFO  [Log] Reading label 
+2016-12-10 11:40:05,555 ERROR [Log] assertion failed 
+2016-12-10 11:40:05,556 INFO  [Log] Closing browser 
+2016-12-10 11:40:57,026 INFO  [Log] Initilaising..  
+2016-12-10 11:40:57,028 INFO  [Log] Checking test run mode 
+2016-12-10 11:40:57,028 INFO  [Log] Starting test 
+2016-12-10 11:40:57,030 INFO  [Log] Opening browser 
+2016-12-10 11:41:03,048 INFO  [Log] Navigating to Url 
+2016-12-10 11:41:07,818 INFO  [Log] Initilaising..  
+2016-12-10 11:41:08,066 INFO  [Log] Typing in text 
+2016-12-10 11:41:08,972 INFO  [Log] Clicking element 
+2016-12-10 11:41:15,863 INFO  [Log] Reading label 
+2016-12-10 11:42:16,214 INFO  [Log] Reading label 
+2016-12-10 11:42:17,628 INFO  [Log] Sign in assertion passed 
+2016-12-10 11:42:18,730 INFO  [Log] Closing browser 
+2016-12-10 11:43:16,817 INFO  [Log] Initilaising..  
+2016-12-10 11:43:16,818 INFO  [Log] Checking test run mode 
+2016-12-10 11:43:16,818 INFO  [Log] Starting test 
+2016-12-10 11:43:16,821 INFO  [Log] Opening browser 
+2016-12-10 11:43:22,643 INFO  [Log] Navigating to Url 
+2016-12-10 11:43:27,677 INFO  [Log] Initilaising..  
+2016-12-10 11:43:27,847 INFO  [Log] Typing in text 
+2016-12-10 11:43:28,762 INFO  [Log] Clicking element 
+2016-12-10 11:43:36,036 INFO  [Log] Reading label 
+2016-12-10 11:43:36,913 INFO  [Log] Reading label 
+2016-12-10 11:43:37,074 INFO  [Log] Sign in assertion passed 
+2016-12-10 11:43:37,074 INFO  [Log] Closing browser 
+2016-12-10 11:43:38,501 INFO  [Log] Initilaising..  
+2016-12-10 11:43:38,502 INFO  [Log] Checking test run mode 
+2016-12-10 11:43:38,502 INFO  [Log] Starting test 
+2016-12-10 11:43:38,503 INFO  [Log] Opening browser 
+2016-12-10 11:43:42,914 INFO  [Log] Navigating to Url 
+2016-12-10 11:43:47,115 INFO  [Log] Initilaising..  
+2016-12-10 11:43:47,271 INFO  [Log] Typing in text 
+2016-12-10 11:43:48,053 INFO  [Log] Clicking element 
+2016-12-10 11:46:38,089 INFO  [Log] Initilaising..  
+2016-12-10 11:46:38,090 INFO  [Log] Checking test run mode 
+2016-12-10 11:46:38,090 INFO  [Log] Starting test 
+2016-12-10 11:46:38,098 INFO  [Log] Opening browser 
+2016-12-10 11:46:43,425 INFO  [Log] Navigating to Url 
+2016-12-10 11:46:47,276 INFO  [Log] Clicking element 
+2016-12-10 11:46:47,539 INFO  [Log] Initilaising..  
+2016-12-10 11:46:49,284 INFO  [Log] Typing in text 
+2016-12-10 11:46:49,562 INFO  [Log] Typing in text 
+2016-12-10 11:46:49,693 INFO  [Log] Clicking element 
+2016-12-10 11:46:49,953 INFO  [Log] Verifying element 
+2016-12-10 11:46:54,228 INFO  [Log] Sign in assertion passed 
+2016-12-10 11:46:54,228 INFO  [Log] Closing browser 
+2016-12-10 11:46:55,124 INFO  [Log] Initilaising..  
+2016-12-10 11:46:55,125 INFO  [Log] Checking test run mode 
+2016-12-10 11:46:55,125 INFO  [Log] Starting test 
+2016-12-10 11:46:55,127 INFO  [Log] Opening browser 
+2016-12-10 11:46:59,585 INFO  [Log] Navigating to Url 
+2016-12-10 11:47:03,099 INFO  [Log] Initilaising..  
+2016-12-10 11:47:03,248 INFO  [Log] Typing in text 
+2016-12-10 11:47:04,146 INFO  [Log] Clicking element 
+2016-12-10 11:47:11,227 INFO  [Log] Reading label 
+2016-12-10 11:47:12,088 INFO  [Log] Reading label 
+2016-12-10 11:47:12,182 INFO  [Log] Sign in assertion passed 
+2016-12-10 11:47:12,182 INFO  [Log] Closing browser 
+2016-12-10 11:47:13,058 INFO  [Log] Initilaising..  
+2016-12-10 11:47:13,058 INFO  [Log] Checking test run mode 
+2016-12-10 11:47:13,058 INFO  [Log] Starting test 
+2016-12-10 11:47:13,059 INFO  [Log] Opening browser 
+2016-12-10 11:47:17,488 INFO  [Log] Navigating to Url 
+2016-12-10 11:47:21,758 INFO  [Log] Initilaising..  
+2016-12-10 11:47:21,947 INFO  [Log] Typing in text 
+2016-12-10 11:47:22,831 INFO  [Log] Clicking element 
+2016-12-10 11:47:31,473 INFO  [Log] Reading label 
+2016-12-10 11:47:32,449 INFO  [Log] Reading label 
+2016-12-10 11:47:32,600 ERROR [Log] assertion failed 
+2016-12-10 11:47:32,600 INFO  [Log] Closing browser 
+2016-12-10 12:00:26,420 INFO  [Log] Initilaising..  
+2016-12-10 12:00:26,421 INFO  [Log] Checking test run mode 
+2016-12-10 12:00:26,421 INFO  [Log] Starting test 
+2016-12-10 12:00:26,422 INFO  [Log] Opening browser 
+2016-12-10 12:00:31,036 INFO  [Log] Navigating to Url 
+2016-12-10 12:00:34,576 INFO  [Log] Initilaising..  
+2016-12-10 12:00:34,689 INFO  [Log] Typing in text 
+2016-12-10 12:00:35,278 INFO  [Log] Clicking element 
+2016-12-10 12:00:40,461 INFO  [Log] Reading label 
+2016-12-10 12:00:40,919 INFO  [Log] Reading label 
+2016-12-10 12:00:40,978 INFO  [Log] Sign in assertion passed 
+2016-12-10 12:00:40,978 INFO  [Log] Closing browser 
+2016-12-10 12:00:41,763 INFO  [Log] Initilaising..  
+2016-12-10 12:00:41,764 INFO  [Log] Checking test run mode 
+2016-12-10 12:00:41,764 INFO  [Log] Starting test 
+2016-12-10 12:00:41,764 INFO  [Log] Opening browser 
+2016-12-10 12:00:45,416 INFO  [Log] Navigating to Url 
+2016-12-10 12:00:48,987 INFO  [Log] Initilaising..  
+2016-12-10 12:00:49,110 INFO  [Log] Typing in text 
+2016-12-10 12:00:49,730 INFO  [Log] Clicking element 
+2016-12-10 12:00:55,381 INFO  [Log] Reading label 
+2016-12-10 12:00:55,826 INFO  [Log] Reading label 
+2016-12-10 12:00:55,876 ERROR [Log] assertion failed 
+2016-12-10 12:00:55,876 INFO  [Log] Closing browser 
+2018-01-19 20:14:50,257 INFO  [Log] Initilaising..  
+2018-01-19 20:14:50,257 INFO  [Log] Checking test run mode 
+2018-01-19 20:14:50,257 INFO  [Log] Starting test 
+2018-01-19 20:14:50,257 INFO  [Log] Opening browser 
+2018-01-19 20:19:34,423 INFO  [Log] Initilaising..  
+2018-01-19 20:19:34,423 INFO  [Log] Checking test run mode 
+2018-01-19 20:19:34,423 INFO  [Log] Starting test 
+2018-01-19 20:19:34,423 INFO  [Log] Opening browser 
+2018-01-19 20:20:32,442 INFO  [Log] Initilaising..  
+2018-01-19 20:20:32,442 INFO  [Log] Checking test run mode 
+2018-01-19 20:20:32,442 INFO  [Log] Starting test 
+2018-01-19 20:20:32,442 INFO  [Log] Opening browser 
+2018-01-19 20:34:35,194 INFO  [Log] Initilaising..  
+2018-01-19 20:34:35,194 INFO  [Log] Checking test run mode 
+2018-01-19 20:34:35,194 INFO  [Log] Starting test 
+2018-01-19 20:34:35,194 INFO  [Log] Opening browser 
+2018-01-19 20:34:35,479 INFO  [Log] Initilaising..  
+2018-01-19 20:34:35,479 INFO  [Log] Checking test run mode 
+2018-01-19 20:34:35,479 INFO  [Log] Starting test 
+2018-01-19 20:34:35,479 INFO  [Log] Opening browser 
+2018-01-19 20:37:13,836 INFO  [Log] Initilaising..  
+2018-01-19 20:37:13,836 INFO  [Log] Checking test run mode 
+2018-01-19 20:37:13,836 INFO  [Log] Starting test 
+2018-01-19 20:37:13,836 INFO  [Log] Opening browser 
+2018-01-19 20:37:14,106 INFO  [Log] Initilaising..  
+2018-01-19 20:37:14,121 INFO  [Log] Checking test run mode 
+2018-01-19 20:37:14,121 INFO  [Log] Starting test 
+2018-01-19 20:37:14,121 INFO  [Log] Opening browser 
+2018-01-19 20:40:57,873 INFO  [Log] Initilaising..  
+2018-01-19 20:40:57,873 INFO  [Log] Checking test run mode 
+2018-01-19 20:40:57,873 INFO  [Log] Starting test 
+2018-01-19 20:40:57,891 INFO  [Log] Opening browser 
+2018-01-19 20:40:58,208 INFO  [Log] Initilaising..  
+2018-01-19 20:40:58,209 INFO  [Log] Checking test run mode 
+2018-01-19 20:40:58,209 INFO  [Log] Starting test 
+2018-01-19 20:40:58,209 INFO  [Log] Opening browser 
+2018-01-19 20:42:25,355 INFO  [Log] Initilaising..  
+2018-01-19 20:42:25,356 INFO  [Log] Checking test run mode 
+2018-01-19 20:42:25,356 INFO  [Log] Starting test 
+2018-01-19 20:42:25,360 INFO  [Log] Initilaising..  
+2018-01-19 20:42:25,361 INFO  [Log] Checking test run mode 
+2018-01-19 20:42:25,361 INFO  [Log] Starting test 
+2018-01-19 22:51:51,547 INFO  [Log] Initilaising..  
+2018-01-19 22:51:51,547 INFO  [Log] Checking test run mode 
+2018-01-19 22:51:51,547 INFO  [Log] Starting test 
+2018-01-19 22:51:51,547 INFO  [Log] Opening browser 
+2018-01-19 22:52:47,226 INFO  [Log] Initilaising..  
+2018-01-19 22:52:47,226 INFO  [Log] Checking test run mode 
+2018-01-19 22:52:47,226 INFO  [Log] Starting test 
+2018-01-19 22:52:47,226 INFO  [Log] Opening browser 
+2018-01-19 22:53:56,500 INFO  [Log] Initilaising..  
+2018-01-19 22:53:56,517 INFO  [Log] Checking test run mode 
+2018-01-19 22:53:56,517 INFO  [Log] Starting test 
+2018-01-19 22:57:28,773 INFO  [Log] Initilaising..  
+2018-01-19 22:57:28,789 INFO  [Log] Checking test run mode 
+2018-01-19 22:57:28,789 INFO  [Log] Starting test 
+2018-01-20 17:20:26,374 INFO  [Log] Initilaising..  
+2018-01-20 17:20:26,377 INFO  [Log] Checking test run mode 
+2018-01-20 17:20:26,377 INFO  [Log] Starting test 
+2018-01-20 17:20:26,380 INFO  [Log] Opening browser 
+2018-01-20 17:20:48,121 INFO  [Log] Navigating to Url 
+2018-01-20 17:20:51,942 INFO  [Log] Clicking element 
+2018-01-20 17:20:55,431 INFO  [Log] Initilaising..  
+2018-01-20 17:20:55,606 INFO  [Log] Typing in text 
+2018-01-20 17:20:56,001 INFO  [Log] Typing in text 
+2018-01-20 17:20:56,110 INFO  [Log] Clicking element 
+2018-01-20 17:20:59,628 INFO  [Log] Verifying element 
+2018-01-20 17:20:59,686 INFO  [Log] Sign in assertion passed 
+2018-01-20 17:20:59,686 INFO  [Log] Closing browser 
+2018-01-20 17:23:20,389 INFO  [Log] Initilaising..  
+2018-01-20 17:23:20,391 INFO  [Log] Checking test run mode 
+2018-01-20 17:23:20,392 INFO  [Log] Starting test 
+2018-01-20 17:23:20,394 INFO  [Log] Opening browser 
+2018-01-20 17:23:34,250 INFO  [Log] Navigating to Url 
+2018-01-20 17:23:40,003 INFO  [Log] Clicking element 
+2018-01-20 17:23:43,334 INFO  [Log] Initilaising..  
+2018-01-20 17:23:43,523 INFO  [Log] Typing in text 
+2018-01-20 17:23:43,708 INFO  [Log] Typing in text 
+2018-01-20 17:23:43,806 INFO  [Log] Clicking element 
+2018-01-20 17:23:47,586 INFO  [Log] Verifying element 
+2018-01-20 17:23:47,729 INFO  [Log] Sign in assertion passed 
+2018-01-20 17:55:18,004 INFO  [Log] Initilaising..  
+2018-01-20 17:55:18,006 INFO  [Log] Checking test run mode 
+2018-01-20 17:55:18,006 INFO  [Log] Starting test 
+2018-01-20 17:55:18,013 INFO  [Log] Opening browser 
+2018-01-20 17:55:32,268 INFO  [Log] Navigating to Url 
+2018-01-20 17:55:37,335 INFO  [Log] Clicking element 
+2018-01-20 17:55:47,579 INFO  [Log] Initilaising..  
+2018-01-20 17:55:47,581 INFO  [Log] Checking test run mode 
+2018-01-20 17:55:47,581 INFO  [Log] Starting test 
+2018-01-20 17:55:47,583 INFO  [Log] Opening browser 
+2018-01-20 17:55:59,831 INFO  [Log] Navigating to Url 
+2018-01-20 17:56:04,527 INFO  [Log] Initilaising..  
+2018-01-20 17:56:04,708 INFO  [Log] Typing in text 
+2018-01-20 17:56:05,889 INFO  [Log] Clicking element 
+2018-01-20 17:56:12,924 INFO  [Log] Reading label 
+2018-01-20 17:56:13,076 INFO  [Log] Reading label 
+2018-01-20 17:56:13,154 INFO  [Log] Sign in assertion passed 
+2018-01-20 17:56:13,154 INFO  [Log] Closing browser 
+2018-01-20 17:56:15,087 INFO  [Log] Initilaising..  
+2018-01-20 17:56:15,091 INFO  [Log] Checking test run mode 
+2018-01-20 17:56:15,091 INFO  [Log] Starting test 
+2018-01-20 17:56:15,095 INFO  [Log] Opening browser 
+2018-01-20 17:56:26,780 INFO  [Log] Navigating to Url 
+2018-01-20 17:56:32,056 INFO  [Log] Initilaising..  
+2018-01-20 17:56:32,228 INFO  [Log] Typing in text 
+2018-01-20 17:56:33,304 INFO  [Log] Clicking element 
+2018-01-20 17:56:40,212 INFO  [Log] Reading label 
+2018-01-20 17:56:40,316 INFO  [Log] Reading label 
+2018-01-20 17:56:40,377 ERROR [Log] assertion failed 
+2018-01-20 17:56:40,377 INFO  [Log] Closing browser 
+2018-01-20 19:07:20,778 INFO  [Log] Initilaising..  
+2018-01-20 19:07:20,781 INFO  [Log] Checking test run mode 
+2018-01-20 19:07:20,781 INFO  [Log] Starting test 
+2018-01-20 19:07:20,788 INFO  [Log] Opening browser 
+2018-01-20 19:07:34,272 INFO  [Log] Navigating to Url 
+2018-01-20 19:07:38,995 INFO  [Log] Clicking element 
+2018-01-20 19:07:42,328 INFO  [Log] Initilaising..  
+2018-01-20 19:07:42,495 INFO  [Log] Typing in text 
+2018-01-20 19:07:42,742 INFO  [Log] Typing in text 
+2018-01-20 19:07:42,871 INFO  [Log] Clicking element 
+2018-01-20 19:07:46,048 INFO  [Log] Verifying element 
+2018-01-20 19:07:46,101 INFO  [Log] Sign in assertion passed 
+2018-01-20 19:07:46,101 INFO  [Log] Closing browser 
+2018-01-20 19:07:47,256 INFO  [Log] Initilaising..  
+2018-01-20 19:07:47,257 INFO  [Log] Checking test run mode 
+2018-01-20 19:07:47,258 INFO  [Log] Skipping test as Runmode is No 
+2018-01-20 19:07:47,285 INFO  [Log] Initilaising..  
+2018-01-20 19:07:47,286 INFO  [Log] Checking test run mode 
+2018-01-20 19:07:47,286 INFO  [Log] Skipping test as Runmode is No 
+2018-01-20 21:10:32,827 INFO  [Log] Initilaising..  
+2018-01-20 21:10:32,830 INFO  [Log] Checking test run mode 
+2018-01-20 21:10:32,830 INFO  [Log] Skipping test as Runmode is No 
+2018-01-20 21:10:32,844 INFO  [Log] Initilaising..  
+2018-01-20 21:10:32,845 INFO  [Log] Checking test run mode 
+2018-01-20 21:10:32,846 INFO  [Log] Skipping test as Runmode is No 
+2018-01-20 21:13:04,697 INFO  [Log] Initilaising..  
+2018-01-20 21:13:04,699 INFO  [Log] Checking test run mode 
+2018-01-20 21:13:04,699 INFO  [Log] Skipping test as Runmode is No 
+2018-01-20 21:13:04,712 INFO  [Log] Initilaising..  
+2018-01-20 21:13:04,713 INFO  [Log] Checking test run mode 
+2018-01-20 21:13:04,713 INFO  [Log] Skipping test as Runmode is No 
+2018-01-21 00:02:38,439 INFO  [Log] Initilaising..  
+2018-01-21 00:02:38,441 INFO  [Log] Checking test run mode 
+2018-01-21 00:02:38,441 INFO  [Log] Starting test 
+2018-01-21 00:02:38,452 INFO  [Log] Opening browser 
+2018-01-21 00:02:53,549 INFO  [Log] Navigating to Url 
+2018-01-21 00:02:59,344 INFO  [Log] Clicking element 
+2018-01-21 00:03:03,187 INFO  [Log] Initilaising..  
+2018-01-21 00:03:03,429 INFO  [Log] Typing in text 
+2018-01-21 00:03:03,824 INFO  [Log] Typing in text 
+2018-01-21 00:03:04,222 INFO  [Log] Clicking element 
+2018-01-21 00:03:08,638 INFO  [Log] Verifying element 
+2018-01-21 00:03:08,701 INFO  [Log] Sign in assertion passed 
+2018-01-21 00:03:08,701 INFO  [Log] Closing browser 
+2018-01-21 00:03:10,389 INFO  [Log] Initilaising..  
+2018-01-21 00:03:10,390 INFO  [Log] Checking test run mode 
+2018-01-21 00:03:10,390 INFO  [Log] Skipping test as Runmode is No 
+2018-01-21 00:03:10,427 INFO  [Log] Initilaising..  
+2018-01-21 00:03:10,428 INFO  [Log] Checking test run mode 
+2018-01-21 00:03:10,428 INFO  [Log] Skipping test as Runmode is No 
+2018-01-21 00:03:58,157 INFO  [Log] Initilaising..  
+2018-01-21 00:03:58,158 INFO  [Log] Checking test run mode 
+2018-01-21 00:03:58,159 INFO  [Log] Starting test 
+2018-01-21 00:03:58,166 INFO  [Log] Opening browser 
+2018-01-21 00:04:12,240 INFO  [Log] Navigating to Url 
+2018-01-21 00:04:18,048 INFO  [Log] Clicking element 
+2018-01-21 00:04:21,272 INFO  [Log] Initilaising..  
+2018-01-21 00:04:21,495 INFO  [Log] Typing in text 
+2018-01-21 00:04:21,795 INFO  [Log] Typing in text 
+2018-01-21 00:04:22,024 INFO  [Log] Clicking element 
+2018-01-21 00:04:26,078 INFO  [Log] Verifying element 
+2018-01-21 00:04:26,183 INFO  [Log] Sign in assertion passed 
+2018-01-21 00:04:26,183 INFO  [Log] Closing browser 
+2018-01-21 00:04:27,689 INFO  [Log] Initilaising..  
+2018-01-21 00:04:27,691 INFO  [Log] Checking test run mode 
+2018-01-21 00:04:27,691 INFO  [Log] Starting test 
+2018-01-21 00:04:27,693 INFO  [Log] Opening browser 
+2018-01-21 00:04:39,692 INFO  [Log] Navigating to Url 
+2018-01-21 00:04:44,722 INFO  [Log] Initilaising..  
+2018-01-21 00:04:44,868 INFO  [Log] Typing in text 
+2018-01-21 00:04:46,007 INFO  [Log] Clicking element 
+2018-01-21 00:04:54,524 INFO  [Log] Reading label 
+2018-01-21 00:04:54,606 INFO  [Log] Reading label 
+2018-01-21 00:04:54,846 INFO  [Log] Sign in assertion passed 
+2018-01-21 00:04:54,846 INFO  [Log] Closing browser 
+2018-01-21 00:04:56,729 INFO  [Log] Initilaising..  
+2018-01-21 00:04:56,730 INFO  [Log] Checking test run mode 
+2018-01-21 00:04:56,730 INFO  [Log] Skipping test as Runmode is No 
+2018-01-21 00:12:57,226 INFO  [Log] Initilaising..  
+2018-01-21 00:12:57,228 INFO  [Log] Checking test run mode 
+2018-01-21 00:12:57,228 INFO  [Log] Starting test 
+2018-01-21 00:12:57,250 INFO  [Log] Opening browser 
+2018-01-21 00:13:12,881 INFO  [Log] Navigating to Url 
+2018-01-21 00:13:18,993 INFO  [Log] Clicking element 
+2018-01-21 00:13:22,103 INFO  [Log] Initilaising..  
+2018-01-21 00:13:22,293 INFO  [Log] Typing in text 
+2018-01-21 00:13:22,562 INFO  [Log] Typing in text 
+2018-01-21 00:13:22,749 INFO  [Log] Clicking element 
+2018-01-21 00:13:27,078 INFO  [Log] Verifying element 
+2018-01-21 00:13:27,128 INFO  [Log] Sign in assertion passed 
+2018-01-21 00:13:27,128 INFO  [Log] Closing browser 
+2018-01-21 00:13:28,442 INFO  [Log] Initilaising..  
+2018-01-21 00:13:28,443 INFO  [Log] Checking test run mode 
+2018-01-21 00:13:28,443 INFO  [Log] Starting test 
+2018-01-21 00:13:28,451 INFO  [Log] Opening browser 
+2018-01-21 00:13:40,861 INFO  [Log] Navigating to Url 
+2018-01-21 00:13:45,530 INFO  [Log] Initilaising..  
+2018-01-21 00:13:45,668 INFO  [Log] Typing in text 
+2018-01-21 00:13:46,973 INFO  [Log] Clicking element 
+2018-01-21 00:13:55,288 INFO  [Log] Reading label 
+2018-01-21 00:13:55,432 INFO  [Log] Sign in assertion passed 
+2018-01-21 00:13:55,432 INFO  [Log] Closing browser 
+2018-01-21 00:13:56,960 INFO  [Log] Initilaising..  
+2018-01-21 00:13:56,961 INFO  [Log] Checking test run mode 
+2018-01-21 00:13:56,961 INFO  [Log] Skipping test as Runmode is No 
+2018-01-21 00:45:37,945 INFO  [Log] Initilaising..  
+2018-01-21 00:45:37,948 INFO  [Log] Checking test run mode 
+2018-01-21 00:45:37,948 INFO  [Log] Starting test 
+2018-01-21 00:45:37,959 INFO  [Log] Opening browser 
+2018-01-21 00:45:52,896 INFO  [Log] Navigating to Url 
+2018-01-21 00:46:00,580 INFO  [Log] Clicking element 
+2018-01-21 00:46:03,654 INFO  [Log] Initilaising..  
+2018-01-21 00:46:03,888 INFO  [Log] Typing in text 
+2018-01-21 00:46:04,109 INFO  [Log] Typing in text 
+2018-01-21 00:46:04,255 INFO  [Log] Clicking element 
+2018-01-21 00:46:07,848 INFO  [Log] Verifying element 
+2018-01-21 00:46:07,931 INFO  [Log] Sign in assertion passed 
+2018-01-21 00:46:07,931 INFO  [Log] Closing browser 
+2018-01-21 00:46:09,285 INFO  [Log] Initilaising..  
+2018-01-21 00:46:09,286 INFO  [Log] Checking test run mode 
+2018-01-21 00:46:09,286 INFO  [Log] Starting test 
+2018-01-21 00:46:09,291 INFO  [Log] Opening browser 
+2018-01-21 00:46:20,814 INFO  [Log] Navigating to Url 
+2018-01-21 00:46:27,656 INFO  [Log] Initilaising..  
+2018-01-21 00:46:27,767 INFO  [Log] Typing in text 
+2018-01-21 00:46:28,967 INFO  [Log] Clicking element 
+2018-01-21 00:46:37,105 INFO  [Log] Reading label 
+2018-01-21 00:46:37,244 INFO  [Log] Sign in assertion passed 
+2018-01-21 00:46:37,244 INFO  [Log] Closing browser 
+2018-01-21 00:46:38,833 INFO  [Log] Initilaising..  
+2018-01-21 00:46:38,835 INFO  [Log] Checking test run mode 
+2018-01-21 00:46:38,835 INFO  [Log] Starting test 
+2018-01-21 00:46:38,839 INFO  [Log] Opening browser 
+2018-01-21 00:46:50,813 INFO  [Log] Navigating to Url 
+2018-01-21 00:46:54,208 INFO  [Log] Initilaising..  
+2018-01-21 00:46:54,466 INFO  [Log] Typing in text 
+2018-01-21 00:46:56,260 INFO  [Log] Clicking element 
+2018-01-21 00:47:05,024 INFO  [Log] Reading label 
+2018-01-21 00:47:05,094 ERROR [Log] assertion failed 
+2018-01-21 00:47:05,095 INFO  [Log] Closing browser 
+2018-01-21 01:14:00,420 INFO  [Log] Initilaising..  
+2018-01-21 01:14:00,421 INFO  [Log] Checking test run mode 
+2018-01-21 01:14:00,421 INFO  [Log] Starting test 
+2018-01-21 01:14:00,430 INFO  [Log] Opening browser 
+2018-01-21 01:14:18,348 INFO  [Log] Navigating to Url 
+2018-01-21 01:14:23,995 INFO  [Log] Clicking element 
+2018-01-21 01:14:27,297 INFO  [Log] Initilaising..  
+2018-01-21 01:14:27,512 INFO  [Log] Typing in text 
+2018-01-21 01:14:27,708 INFO  [Log] Typing in text 
+2018-01-21 01:14:27,920 INFO  [Log] Clicking element 
+2018-01-21 01:14:32,089 INFO  [Log] Verifying element 
+2018-01-21 01:14:32,167 INFO  [Log] Sign in assertion passed 
+2018-01-21 01:14:32,167 INFO  [Log] Closing browser 
+2018-01-21 01:14:33,612 INFO  [Log] Initilaising..  
+2018-01-21 01:14:33,613 INFO  [Log] Checking test run mode 
+2018-01-21 01:14:33,613 INFO  [Log] Starting test 
+2018-01-21 01:14:33,615 INFO  [Log] Opening browser 
+2018-01-21 01:14:46,824 INFO  [Log] Navigating to Url 
+2018-01-21 01:14:51,991 INFO  [Log] Initilaising..  
+2018-01-21 01:14:52,110 INFO  [Log] Typing in text 
+2018-01-21 01:14:53,340 INFO  [Log] Clicking element 
+2018-01-21 01:15:02,638 INFO  [Log] Reading label 
+2018-01-21 01:15:03,001 INFO  [Log] Sign in assertion passed 
+2018-01-21 01:15:03,001 INFO  [Log] Closing browser 
+2018-01-21 01:15:05,386 INFO  [Log] Initilaising..  
+2018-01-21 01:15:05,387 INFO  [Log] Checking test run mode 
+2018-01-21 01:15:05,387 INFO  [Log] Starting test 
+2018-01-21 01:15:05,389 INFO  [Log] Opening browser 
+2018-01-21 01:15:18,801 INFO  [Log] Navigating to Url 
+2018-01-21 01:15:24,482 INFO  [Log] Initilaising..  
+2018-01-21 01:15:24,643 INFO  [Log] Typing in text 
+2018-01-21 01:15:25,876 INFO  [Log] Clicking element 
+2018-01-21 01:15:35,507 INFO  [Log] Reading label 
+2018-01-21 01:15:35,692 ERROR [Log] assertion failed 
+2018-01-21 01:15:35,693 INFO  [Log] Closing browser 
+2018-01-21 01:38:41,572 INFO  [Log] Initilaising..  
+2018-01-21 01:38:41,574 INFO  [Log] Checking test run mode 
+2018-01-21 01:38:41,574 INFO  [Log] Starting test 
+2018-01-21 01:38:41,583 INFO  [Log] Opening browser 
+2018-01-21 01:38:57,803 INFO  [Log] Navigating to Url 
+2018-01-21 01:39:04,136 INFO  [Log] Clicking element 
+2018-01-21 01:39:07,752 INFO  [Log] Initilaising..  
+2018-01-21 01:39:08,001 INFO  [Log] Typing in text 
+2018-01-21 01:39:08,366 INFO  [Log] Typing in text 
+2018-01-21 01:39:08,476 INFO  [Log] Clicking element 
+2018-01-21 01:39:12,662 INFO  [Log] Verifying element 
+2018-01-21 01:39:12,731 INFO  [Log] Sign in assertion passed 
+2018-01-21 01:39:12,731 INFO  [Log] Closing browser 
+2018-01-21 01:39:14,357 INFO  [Log] Initilaising..  
+2018-01-21 01:39:14,358 INFO  [Log] Checking test run mode 
+2018-01-21 01:39:14,358 INFO  [Log] Starting test 
+2018-01-21 01:39:14,359 INFO  [Log] Opening browser 
+2018-01-21 01:39:27,412 INFO  [Log] Navigating to Url 
+2018-01-21 01:39:33,082 INFO  [Log] Initilaising..  
+2018-01-21 01:39:33,240 INFO  [Log] Typing in text 
+2018-01-21 01:39:34,723 INFO  [Log] Clicking element 
+2018-01-21 01:39:44,967 INFO  [Log] Initilaising..  
+2018-01-21 01:39:44,969 INFO  [Log] Checking test run mode 
+2018-01-21 01:39:44,969 INFO  [Log] Starting test 
+2018-01-21 01:39:44,972 INFO  [Log] Opening browser 
+2018-01-21 01:40:03,348 INFO  [Log] Navigating to Url 
+2018-01-21 01:40:08,845 INFO  [Log] Initilaising..  
+2018-01-21 01:40:09,019 INFO  [Log] Typing in text 
+2018-01-21 01:40:10,473 INFO  [Log] Clicking element 
+2018-01-21 21:16:50,936 INFO  [Log] Initilaising..  
+2018-01-21 21:16:50,938 INFO  [Log] Checking test run mode 
+2018-01-21 21:16:50,938 INFO  [Log] Starting test 
+2018-01-21 21:16:50,942 INFO  [Log] Opening browser 
+2018-01-21 21:17:08,482 INFO  [Log] Navigating to Url 
+2018-01-21 21:17:12,866 INFO  [Log] Clicking element 
+2018-01-21 21:17:16,796 INFO  [Log] Initilaising..  
+2018-01-21 21:17:16,984 INFO  [Log] Typing in text 
+2018-01-21 21:17:17,332 INFO  [Log] Typing in text 
+2018-01-21 21:17:17,540 INFO  [Log] Clicking element 
+2018-01-21 21:17:21,161 INFO  [Log] Verifying element 
+2018-01-21 21:17:21,222 INFO  [Log] Sign in assertion passed 
+2018-01-21 21:17:21,222 INFO  [Log] Closing browser 
+2018-01-21 21:17:22,492 INFO  [Log] Initilaising..  
+2018-01-21 21:17:22,493 INFO  [Log] Checking test run mode 
+2018-01-21 21:17:22,493 INFO  [Log] Starting test 
+2018-01-21 21:17:22,495 INFO  [Log] Opening browser 
+2018-01-21 21:17:33,946 INFO  [Log] Navigating to Url 
+2018-01-21 21:17:38,358 INFO  [Log] Initilaising..  
+2018-01-21 21:17:38,482 INFO  [Log] Typing in text 
+2018-01-21 21:17:39,772 INFO  [Log] Clicking element 
+2018-01-21 21:17:47,990 INFO  [Log] Reading label 
+2018-01-21 21:17:48,136 INFO  [Log] Sign in assertion passed 
+2018-01-21 21:17:48,136 INFO  [Log] Closing browser 
+2018-01-21 21:17:49,926 INFO  [Log] Initilaising..  
+2018-01-21 21:17:49,927 INFO  [Log] Checking test run mode 
+2018-01-21 21:17:49,927 INFO  [Log] Starting test 
+2018-01-21 21:17:49,929 INFO  [Log] Opening browser 
+2018-01-21 21:18:01,124 INFO  [Log] Navigating to Url 
+2018-01-21 21:18:06,006 INFO  [Log] Initilaising..  
+2018-01-21 21:18:06,257 INFO  [Log] Typing in text 
+2018-01-21 21:18:07,600 INFO  [Log] Clicking element 
+2018-01-21 21:18:15,372 INFO  [Log] Reading label 
+2018-01-21 21:18:15,487 ERROR [Log] assertion failed 
+2018-01-21 21:18:15,487 INFO  [Log] Closing browser 
+2018-01-21 21:23:25,292 INFO  [Log] Initilaising..  
+2018-01-21 21:23:25,295 INFO  [Log] Checking test run mode 
+2018-01-21 21:23:25,295 INFO  [Log] Starting test 
+2018-01-21 21:23:25,303 INFO  [Log] Opening browser 
+2018-01-21 21:23:38,803 INFO  [Log] Navigating to Url 
+2018-01-21 21:23:44,412 INFO  [Log] Clicking element 
+2018-01-21 21:23:47,186 INFO  [Log] Initilaising..  
+2018-01-21 21:23:47,366 INFO  [Log] Typing in text 
+2018-01-21 21:23:47,553 INFO  [Log] Typing in text 
+2018-01-21 21:23:47,749 INFO  [Log] Clicking element 
+2018-01-21 21:23:51,433 INFO  [Log] Verifying element 
+2018-01-21 21:23:51,490 INFO  [Log] Sign in assertion passed 
+2018-01-21 21:23:51,490 INFO  [Log] Closing browser 
+2018-01-21 21:23:52,683 INFO  [Log] Initilaising..  
+2018-01-21 21:23:52,687 INFO  [Log] Checking test run mode 
+2018-01-21 21:23:52,687 INFO  [Log] Starting test 
+2018-01-21 21:23:52,689 INFO  [Log] Opening browser 
+2018-01-21 21:24:03,012 INFO  [Log] Navigating to Url 
+2018-01-21 21:24:06,511 INFO  [Log] Initilaising..  
+2018-01-21 21:24:06,671 INFO  [Log] Typing in text 
+2018-01-21 21:24:07,563 INFO  [Log] Clicking element 
+2018-01-21 21:24:14,105 INFO  [Log] Reading label 
+2018-01-21 21:24:14,283 INFO  [Log] Sign in assertion passed 
+2018-01-21 21:24:14,283 INFO  [Log] Closing browser 
+2018-01-21 21:24:15,686 INFO  [Log] Initilaising..  
+2018-01-21 21:24:15,688 INFO  [Log] Checking test run mode 
+2018-01-21 21:24:15,688 INFO  [Log] Starting test 
+2018-01-21 21:24:15,689 INFO  [Log] Opening browser 
+2018-01-21 21:24:25,829 INFO  [Log] Navigating to Url 
+2018-01-21 21:24:29,432 INFO  [Log] Initilaising..  
+2018-01-21 21:24:29,585 INFO  [Log] Typing in text 
+2018-01-21 21:24:30,431 INFO  [Log] Clicking element 
+2018-01-21 21:24:36,678 INFO  [Log] Reading label 
+2018-01-21 21:24:36,793 ERROR [Log] assertion failed 
+2018-01-21 21:24:36,793 INFO  [Log] Closing browser 

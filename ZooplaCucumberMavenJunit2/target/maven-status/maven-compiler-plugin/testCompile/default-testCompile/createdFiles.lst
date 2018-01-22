@@ -1,0 +1,5 @@
+webconnector\WebConnector.class
+stepDefinition\SignInTest.class
+stepDefinition\CommonSteps.class
+stepDefinition\PropertiesResultsHeaderTitle.class
+runner\TestRunner.class

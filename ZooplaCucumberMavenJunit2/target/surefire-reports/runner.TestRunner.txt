@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 20, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 88.268 s <<< FAILURE! - in runner.TestRunner
+Then the For Sale properties results page "headerTitleLabel" should show "Test"(| Y | London | Test |)  Time elapsed: 0.012 s  <<< FAILURE!
+java.lang.AssertionError
+
+| Y | London | Test |  Time elapsed: 0.012 s  <<< FAILURE!
+java.lang.AssertionError
+
