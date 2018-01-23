@@ -24,7 +24,7 @@ public class SignInTest {
 	public void Signin_Validation(String expected_Result) {
 		
 		try {
-			boolean result = selenium.checkElementExists("signoutLink");
+			boolean result = selenium.checkElementExists("manageaccountlink");
 			String actual_result;
 			if (result) {
 				actual_result = "successful";

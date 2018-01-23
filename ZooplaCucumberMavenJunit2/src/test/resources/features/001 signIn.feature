@@ -14,7 +14,7 @@ Feature: Sign In to Zoopla
     And I enter "passwordText" as "<Password>"
     And I click on "signinButton"
     Then Signin should be "<Expected_Result>"
-
+    
     Examples: 
       | Runmode | Email            | Password    | Expected_Result |
       | Y       | canary@gmail.com | Selenium321 | successful      |
