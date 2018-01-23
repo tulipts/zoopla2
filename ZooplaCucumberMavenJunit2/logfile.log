@@ -679,3 +679,16 @@
 2018-01-22 23:56:06,606 INFO  [Log] Verifying element 
 2018-01-22 23:56:06,727 INFO  [Log] Sign in assertion passed 
 2018-01-22 23:56:06,727 INFO  [Log] Closing browser 
+2018-01-23 17:50:49,124 INFO  [Log] Initilaising..  
+2018-01-23 17:50:49,129 INFO  [Log] Checking test run mode 
+2018-01-23 17:50:49,129 INFO  [Log] Starting test 
+2018-01-23 17:50:49,134 INFO  [Log] Opening browser 
+2018-01-23 17:51:06,391 INFO  [Log] Navigating to Url 
+2018-01-23 17:51:10,702 INFO  [Log] Clicking element 
+2018-01-23 17:51:13,965 INFO  [Log] Initilaising..  
+2018-01-23 17:51:14,166 INFO  [Log] Typing in text 
+2018-01-23 17:51:14,450 INFO  [Log] Typing in text 
+2018-01-23 17:51:14,616 INFO  [Log] Clicking element 
+2018-01-23 17:51:18,394 INFO  [Log] Verifying element 
+2018-01-23 17:51:18,434 INFO  [Log] Sign in assertion passed 
+2018-01-23 17:51:18,434 INFO  [Log] Closing browser 
