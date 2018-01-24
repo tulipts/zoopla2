@@ -191,12 +191,12 @@ public class WebConnector {
 	}
 
 	public void waitUntilElementIsVisible(String object) {
-		WebDriverWait wait = new WebDriverWait(driver, 15);
+		WebDriverWait wait = new WebDriverWait(driver, 6000);
 		wait.until(ExpectedConditions.visibilityOf(getElement(object)));
 	}
 
 	public void waitUntilElementIsClickable(String object) {
-		WebDriverWait wait = new WebDriverWait(driver, 15);
+		WebDriverWait wait = new WebDriverWait(driver, 6000);
 		wait.until(ExpectedConditions.elementToBeClickable(getElement(object)));
 	}
 

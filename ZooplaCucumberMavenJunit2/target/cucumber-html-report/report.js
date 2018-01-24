@@ -80,8 +80,8 @@ formatter.examples({
     {
       "cells": [
         "Y",
-        "planmex@hotmail.com",
-        "selenium321",
+        "canary@gmail.com",
+        "Selenium321",
         "successful"
       ],
       "line": 20,
@@ -128,7 +128,7 @@ formatter.step({
 });
 formatter.step({
   "line": 13,
-  "name": "I enter \"emailText\" as \"planmex@hotmail.com\"",
+  "name": "I enter \"emailText\" as \"canary@gmail.com\"",
   "matchedColumns": [
     1
   ],
@@ -136,7 +136,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "I enter \"passwordText\" as \"selenium321\"",
+  "name": "I enter \"passwordText\" as \"Selenium321\"",
   "matchedColumns": [
     2
   ],
@@ -165,7 +165,7 @@ formatter.match({
   "location": "CommonSteps.Runmode_is(String)"
 });
 formatter.result({
-  "duration": 1401618308,
+  "duration": 875125555,
   "status": "passed"
 });
 formatter.match({
@@ -182,7 +182,7 @@ formatter.match({
   "location": "CommonSteps.I_navigate_to(String,String)"
 });
 formatter.result({
-  "duration": 19103950458,
+  "duration": 19342324349,
   "status": "passed"
 });
 formatter.match({
@@ -195,7 +195,7 @@ formatter.match({
   "location": "CommonSteps.I_click_on(String)"
 });
 formatter.result({
-  "duration": 2772241125,
+  "duration": 2638592135,
   "status": "passed"
 });
 formatter.match({
@@ -205,14 +205,14 @@ formatter.match({
       "offset": 9
     },
     {
-      "val": "planmex@hotmail.com",
+      "val": "canary@gmail.com",
       "offset": 24
     }
   ],
   "location": "SignInTest.I_enter_as(String,String)"
 });
 formatter.result({
-  "duration": 309192605,
+  "duration": 278566607,
   "status": "passed"
 });
 formatter.match({
@@ -222,14 +222,14 @@ formatter.match({
       "offset": 9
     },
     {
-      "val": "selenium321",
+      "val": "Selenium321",
       "offset": 27
     }
   ],
   "location": "SignInTest.I_enter_as(String,String)"
 });
 formatter.result({
-  "duration": 248245721,
+  "duration": 204674843,
   "status": "passed"
 });
 formatter.match({
@@ -242,7 +242,7 @@ formatter.match({
   "location": "CommonSteps.I_click_on(String)"
 });
 formatter.result({
-  "duration": 3679955848,
+  "duration": 3085277958,
   "status": "passed"
 });
 formatter.match({
@@ -255,7 +255,7 @@ formatter.match({
   "location": "SignInTest.Signin_Validation(String)"
 });
 formatter.result({
-  "duration": 1188061618,
+  "duration": 1226024308,
   "status": "passed"
 });
 formatter.uri("features/002. propertiesResultsHeaderTitle.feature");
@@ -415,7 +415,7 @@ formatter.match({
   "location": "CommonSteps.Runmode_is(String)"
 });
 formatter.result({
-  "duration": 3707068,
+  "duration": 3943600,
   "status": "passed"
 });
 formatter.match({
@@ -432,7 +432,7 @@ formatter.match({
   "location": "CommonSteps.I_navigate_to(String,String)"
 });
 formatter.result({
-  "duration": 13820096171,
+  "duration": 19192607978,
   "status": "passed"
 });
 formatter.match({
@@ -449,7 +449,7 @@ formatter.match({
   "location": "PropertiesResultsHeaderTitle.I_enter_location(String,String)"
 });
 formatter.result({
-  "duration": 1051642824,
+  "duration": 1329524095,
   "status": "passed"
 });
 formatter.match({
@@ -462,7 +462,7 @@ formatter.match({
   "location": "CommonSteps.I_click_on(String)"
 });
 formatter.result({
-  "duration": 6539657369,
+  "duration": 6464292762,
   "status": "passed"
 });
 formatter.match({
@@ -479,7 +479,7 @@ formatter.match({
   "location": "PropertiesResultsHeaderTitle.Sale_properties_results(String,String)"
 });
 formatter.result({
-  "duration": 1574646380,
+  "duration": 2238328638,
   "status": "passed"
 });
 formatter.scenario({
@@ -544,7 +544,7 @@ formatter.match({
   "location": "CommonSteps.Runmode_is(String)"
 });
 formatter.result({
-  "duration": 1405196,
+  "duration": 1215317,
   "status": "passed"
 });
 formatter.match({
@@ -561,7 +561,7 @@ formatter.match({
   "location": "CommonSteps.I_navigate_to(String,String)"
 });
 formatter.result({
-  "duration": 13740592953,
+  "duration": 17170991190,
   "status": "passed"
 });
 formatter.match({
@@ -578,7 +578,7 @@ formatter.match({
   "location": "PropertiesResultsHeaderTitle.I_enter_location(String,String)"
 });
 formatter.result({
-  "duration": 997716789,
+  "duration": 1653335031,
   "status": "passed"
 });
 formatter.match({
@@ -591,7 +591,7 @@ formatter.match({
   "location": "CommonSteps.I_click_on(String)"
 });
 formatter.result({
-  "duration": 6245238452,
+  "duration": 7218068527,
   "status": "passed"
 });
 formatter.match({
@@ -608,7 +608,7 @@ formatter.match({
   "location": "PropertiesResultsHeaderTitle.Sale_properties_results(String,String)"
 });
 formatter.result({
-  "duration": 1615540760,
+  "duration": 2545887912,
   "error_message": "java.lang.AssertionError\r\n\tat org.junit.Assert.fail(Assert.java:86)\r\n\tat stepDefinition.PropertiesResultsHeaderTitle.Sale_properties_results(PropertiesResultsHeaderTitle.java:37)\r\n\tat ✽.Then the For Sale properties results page \"headerTitleLabel\" should show \"Test\"(features/002. propertiesResultsHeaderTitle.feature:15)\r\n",
   "status": "failed"
 });
